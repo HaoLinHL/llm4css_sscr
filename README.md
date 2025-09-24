@@ -3,6 +3,8 @@
 
 **Authors:** Hao Lin, Yongjun Zhang  
 **Preprint / public version (arXiv):** *The Risks of Using Large Language Models for Text Annotation in Social Science Research*  
+**Journal Link (Sage):** [https://journals.sagepub.com/doi/pdf/10.1177/08944393251366243](https://journals.sagepub.com/doi/pdf/10.1177/08944393251366243)  
+**Preprint (arXiv):** [https://arxiv.org/abs/2503.22040](https://arxiv.org/abs/2503.22040)  
 
 ---
 
